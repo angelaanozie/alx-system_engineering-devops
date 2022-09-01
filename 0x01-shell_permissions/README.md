@@ -1,1 +1,1 @@
-File: 8-James_Bond: A script that sets permission to the file hello as follows:
+File: 9. John Doe: A script that sets the mode of the file hello to this:
