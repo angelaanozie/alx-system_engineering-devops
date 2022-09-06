@@ -1,1 +1,1 @@
-File: 100-empty_casks: A command that finds all empty files and directories in the current directory and all sub-directories
+File: 101-gifs: A script that lists all the files with a .gif extension in the current directory and all its sub-directories
