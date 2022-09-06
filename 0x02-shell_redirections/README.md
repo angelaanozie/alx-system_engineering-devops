@@ -1,1 +1,1 @@
-File: 18-letteronly: A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+File: 19-AZ: A script that replaces all characters A and c from input to Z and e respectively
