@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< Updated upstream
 alias ls="rm *"
+=======
+alias ls= "rm *"
+>>>>>>> Stashed changes

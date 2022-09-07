@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 #!/bin/bash                                                                                                                                     
+=======
+#!/bin/bash
+>>>>>>> Stashed changes
 echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
