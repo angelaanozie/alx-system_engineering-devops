@@ -1,1 +1,1 @@
-File: 5-local_variables: A script that lists all local variables and environment variables, and functions
+File: 6-create_local_variable: A script that creates a new local variable
