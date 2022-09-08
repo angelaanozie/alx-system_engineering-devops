@@ -1,1 +1,1 @@
-File: touch 10-love_exponent_breath: A script that displays the result of BREATH to the power LOVE
+File: 11-binary_to_decimal: A script that converts a number from base 2 to base 10
